@@ -1,6 +1,6 @@
 # [이스트소프트] 정보보안 인공지능 3기⭐️
 ## 2025.01 ~ 2025.05 (비대면 | 프로젝트 대면)
-## 📚 교재 : 
+## 📚 교재
 ### [📗 Django로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍](https://github.com/dscoool/django)
 ### [📕 만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40/)
 ### [📙 인공지능, 보안을 배우다.](https://bjpublic-my.sharepoint.com/:f:/g/personal/bjpublic_bjpublic_co_kr/EvY-uyQ5aoNKtV5Bxxjj2U0BT6JSJTn2DKS_eH5gXsCCJA)
