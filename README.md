@@ -38,7 +38,7 @@ $ git clone https://github.com/dscoool/aisecurity.git
 	강화 학습
 
  
-## 👨🏻‍💻[개인정보 비식별 자동화 기술개발][전문3](https://github.com/dscoool/opencv) 	
+## 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
         개인정보 핵심
 	개인정보 비식별 개요
 	개인정보 비식별 핵심
