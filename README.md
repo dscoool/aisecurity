@@ -21,11 +21,11 @@
 $ git clone https://github.com/dscoool/python40.git
 
 ## 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
-###	파이썬과 데이터 분석
-###	핵심 패키지 이해
-###	데이터 전처리
-###	데이터 시각화
-### 	[Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
+###	2.1. 파이썬과 데이터 분석
+###	2.2. [파이썬과 40개의 작품들](https://github.com/dscoool/python40)
+###	2.3. 데이터 전처리
+###	2.4. 데이터 시각화
+### 	2.5. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
 
 ## 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
 	머신러닝 핵심
