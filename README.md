@@ -50,6 +50,7 @@ $ git clone https://github.com/dscoool/python40.git
 	텐서플로 실습
 	강화 학습
 ## [5.A.][게임 만들기 | pygame](https://wikidocs.net/64675)
+[(게임자료실)](https://drive.google.com/drive/folders/1PE-zxK5eHEVK6TiBw32Me2xW_dHZhRwu?usp=sharing)
 ## [5.B.][파이썬으로 앱 만들기 | kivy](https://wikidocs.net/85867) 
 ## 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
         개인정보 핵심
