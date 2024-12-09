@@ -18,7 +18,7 @@
 ### [수강목적조사 설문](https://forms.gle/pc5QeBb3WRGP4SH36)
 
 ### 💻[DOWNLOAD | git clone]
-$ git clone https://github.com/dscoool/aisecurity.git
+$ git clone https://github.com/dscoool/python40.git
 
 ## 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
 ###	파이썬과 데이터 분석
