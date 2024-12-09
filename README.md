@@ -31,7 +31,7 @@ $ git clone https://github.com/dscoool/python40.git
 ### [2.7. 도메인 할당하기]
 ### [2.8 파이썬 kivy로 안드로이드 어플 만들기](https://gaebalsaebal-developer.tistory.com/28)
 ### [2.9 파이썬 kivy로 안드로이드 어플 만들기](https://bonkstudy.tistory.com/entry/python-%EA%B0%9C%EB%B0%9C-%EA%B3%B5%EB%B6%80-0-01-Kivy-getting-started-pycharm-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95)
-#### [블로그1(https://brain-nim.tistory.com/3)
+#### [블로그1](https://brain-nim.tistory.com/3)
 
 
 ## 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
