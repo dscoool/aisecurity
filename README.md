@@ -29,7 +29,8 @@ $ git clone https://github.com/dscoool/python40.git
 ### 	2.5. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
 ### 2.6. [Python django + 네이버 클라우드로 테스트 서버 생성 및 배포하기.](https://velog.io/@yjl8628/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BCNCP-Pythondjango-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 ### [2.7. 도메인 할당하기]
-### [2.8 파이썬으로 안드로이드 어플 만들기](https://gaebalsaebal-developer.tistory.com/28)
+### [2.8 파이썬 kivy로 안드로이드 어플 만들기](https://gaebalsaebal-developer.tistory.com/28)
+	#### [블로그1(https://brain-nim.tistory.com/3)
 ## 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
 	머신러닝 핵심
 	모델 평가와 검증
