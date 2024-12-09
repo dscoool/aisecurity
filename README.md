@@ -46,7 +46,7 @@ $ git clone https://github.com/dscoool/python40.git
 	텐서플로 기초
 	텐서플로 실습
 	강화 학습
-
+## [5.A.][게임 만들기](https://wikidocs.net/64675)
  
 ## 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
         개인정보 핵심
