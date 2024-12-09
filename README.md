@@ -20,7 +20,7 @@
 ### 💻[DOWNLOAD | git clone]
 	$ git clone https://github.com/dscoool/python40.git
 
-## 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
+## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
 ###	2.1. 파이썬과 데이터 분석
 ###	2.2. [파이썬과 40개의 작품들](https://github.com/dscoool/python40)
 ### 	2.2.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
@@ -37,7 +37,8 @@
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기](https://brain-nim.tistory.com/3)
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기(2)](https://gaebalsaebal-developer.tistory.com/28)
 ### [2.A. 모바일 어플리케이션 스택 안내]
-## 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
+
+## IV. 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
 	머신러닝 핵심
 	모델 평가와 검증
 	기초 통계학
@@ -45,7 +46,7 @@
 	이상 탐지
 ## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://gaebalsaebal-developer.tistory.com/28)
 
-## 👩🏻‍💻[인공지능 알고리즘 설계 지도 학습][기본5] 
+## V. 👩🏻‍💻[인공지능 알고리즘 설계 지도 학습][기본5] 
 	비지도 학습
 	뉴럴 네트워크 핵심
 	인공지능과 딥러닝
@@ -57,7 +58,8 @@
 [(게임자료실)](https://drive.google.com/drive/folders/1PE-zxK5eHEVK6TiBw32Me2xW_dHZhRwu?usp=sharing)
 [(매뉴얼)](https://wikidocs.net/64675)
 ## [5.B.][파이썬으로 앱 만들기 | kivy](https://wikidocs.net/85867) 
-## 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
+
+## 프로젝트 III. 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
         개인정보 핵심
 	개인정보 비식별 개요
 	개인정보 비식별 핵심
