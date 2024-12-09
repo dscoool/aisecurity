@@ -40,6 +40,7 @@ $ git clone https://github.com/dscoool/python40.git
 	기초 통계학
 	특징 공학
 	이상 탐지
+## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://gaebalsaebal-developer.tistory.com/28)
 
 ## 👩🏻‍💻[인공지능 알고리즘 설계 지도 학습][기본5] 
 	비지도 학습
