@@ -13,16 +13,16 @@
 
 ## ⚙️ 이 과정을 성실히 이수하면 만들 수 있는 소프트웨어 : "개인정보 비식별 자동화 시스템 웹사이트"
 
-## 🏷 Orientation 
+## 0.🏷 Orientation 
 
 ### [수강목적조사 설문](https://forms.gle/pc5QeBb3WRGP4SH36)
 
-### 💻[DOWNLOAD | git clone]
+### 💻[DOWNLOAD | git clone](https://github.com/dscoool/python40/)
 	$ git clone https://github.com/dscoool/python40.git
 
 ## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
 ###	2.1. 파이썬과 데이터 분석
-###	2.2. [파이썬과 40개의 작품들](https://github.com/dscoool/python40)
+###	2.2. [만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40)
 ### 	2.2.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
 ###	2.3. 데이터 전처리
 ###	2.4. 데이터 시각화
