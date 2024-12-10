@@ -46,6 +46,7 @@
 	이상 탐지
 ## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://gaebalsaebal-developer.tistory.com/28)
 ## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://github.com/woensug-choi/ChatGee)
+### [매뉴얼](https://woensug-choi.github.io/ChatGee/Introduction.html#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9A%A9-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
 ## [4.B. 파이썬으로 카카오톡 메시지 보내기](https://devtalk.kakao.com/t/rest-api-python-flask/134383)
 ## V. 👩🏻‍💻[인공지능 알고리즘 설계 지도 학습][기본5] 
 	비지도 학습
