@@ -21,19 +21,18 @@
 	$ git clone https://github.com/dscoool/python40.git
 
 ## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
-###	2.1. 파이썬과 데이터 분석
-###	2.2. [만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40)
-### 	2.2.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
-###	2.3. 데이터 전처리
-###	2.4. 데이터 시각화
-### 	2.5. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
-### [2.5.1. Streamlit 챗봇 외부접속 가능하도록 배포하기 - 네이버클라우드 활용](https://chucoding.tistory.com/146)
-### [2.5.2. CLOVA Chatbot 카카오톡 연동하기](https://chucoding.tistory.com/125)
-### 2.6. [Python django + 네이버 클라우드로 테스트 서버 생성 및 배포하기.](https://velog.io/@yjl8628/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BCNCP-Pythondjango-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+###	2.1. [만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40)
+### 	2.1.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
+###	2.2. 데이터 전처리
+###	2.3. 데이터 시각화
+### 	2.4. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
+### [2.4.1. Streamlit 챗봇 외부접속 가능하도록 배포하기 - 네이버클라우드 활용](https://chucoding.tistory.com/146)
+### [2.4.2. CLOVA Chatbot 카카오톡 연동하기](https://chucoding.tistory.com/125)
+### 2.5. [Python django + 네이버 클라우드로 테스트 서버 생성 및 배포하기.](https://velog.io/@yjl8628/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BCNCP-Pythondjango-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
-### [2.6.1 Flask를 이용해 챗봇이 있는 웹페이지 만들어보기](https://gaebalsaebal-developer.tistory.com/31#google_vignette)
+### [2.5.1 Flask를 이용해 챗봇이 있는 웹페이지 만들어보기](https://gaebalsaebal-developer.tistory.com/31#google_vignette)
 
-### [2.7. 도메인 할당하기]
+### [2.6. 도메인 할당하기]
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기](https://brain-nim.tistory.com/3)
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기(2)](https://gaebalsaebal-developer.tistory.com/28)
 ### [2.A. 모바일 어플리케이션 스택 안내]
