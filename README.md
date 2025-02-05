@@ -1,7 +1,9 @@
 # [이스트소프트] 정보보안 인공지능 3기⭐️
 ## 2025.02 ~ 2025.06 (비대면 | 프로젝트 대면)
 ## 📚 교재
-### [1. 📕 만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40/)
+
+## [1. 📕 만들면서 배우는 파이썬과 40개의 작품들 ] (https://github.com/dscoool/python40/)
+
 ### [2. 📗 Django로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍](https://github.com/dscoool/django)
 ### [3. 📙 인공지능, 보안을 배우다.](https://bjpublic-my.sharepoint.com/:f:/g/personal/bjpublic_bjpublic_co_kr/EvY-uyQ5aoNKtV5Bxxjj2U0BT6JSJTn2DKS_eH5gXsCCJA)
 
@@ -21,7 +23,7 @@
 	$ git clone https://github.com/dscoool/python40.git
 
 ## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
-###	2.1. [만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40)
+##	2.1. [만들면서 배우는 파이썬과 40개의 작품들 --> 소스코드/예습자료]  (https://github.com/dscoool/python40)
 ### 	2.1.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
 ###	2.2. 데이터 전처리
 ###	2.3. 데이터 시각화
