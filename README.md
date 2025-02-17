@@ -20,6 +20,11 @@
 
 ### 💻[DOWNLOAD | git clone](https://github.com/dscoool/python40/)
 	$ git clone https://github.com/dscoool/python40.git
+## [파이썬 설치]
+### [Python](https://www.python.org/downloads/)
+### [VSCode](https://code.visualstudio.com/download)
+### [Google Colab](https://colab.research.google.com/)
+
 
 ## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
 ##	2.1. [만들면서 배우는 파이썬과 40개의 작품들 --> 소스코드/예습자료] (https://github.com/dscoool/python40)
