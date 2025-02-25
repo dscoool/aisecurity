@@ -29,6 +29,10 @@
 ## II. 👩🏻‍💻[파이썬 데이터 분석 실습][기본2]
 ##	2.1. [⭐️ 만들면서 배우는 파이썬과 40개의 작품들 --> 소스코드] (https://github.com/dscoool/python40)
 ### 	2.1.1. [Docker + Nginx + Naver Cloud로 Flask 배포하기](https://tnsgh0101.medium.com/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-54f7c1a6f54b)
+###	2.1.2. [디스코드로 메시지 보내기(1)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg.py)
+### [디스코드로 메시지 보내기(2)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg_2.py)
+### [디스코드로 메시지 보내기(3)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg_fn.py)
+
 ###	2.2. 데이터 전처리
 ###	2.3. 데이터 시각화
 ### 	2.4. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
