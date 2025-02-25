@@ -3,7 +3,7 @@
 ## 📚 교재
 
 ## [1. 📕 만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40/)
-
+### [slide](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
 ## [2. 📗 Django로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍](https://github.com/dscoool/django)
 
 ## 👨‍🏫 강의 목표
