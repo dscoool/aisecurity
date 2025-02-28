@@ -2,7 +2,7 @@
 @@ pushpin: goQuality 2
 ### pushpin: goQuality 3
 #### pushpin: goQuality 4
-##### pushpin: goQuality 5
+![text](http://github.com/dscoool)
 >고퀄리티 개발 컨텐츠 공유 서비스  
 >https://go-quality.dev  
 
