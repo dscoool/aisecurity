@@ -32,7 +32,8 @@
 ###	2.1.2. [디스코드로 메시지 보내기(1)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg.py)
 ### [디스코드로 메시지 보내기(2)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg_2.py)
 ### [디스코드로 메시지 보내기(3)](https://github.com/dscoool/aisecurity/blob/main/discord_send_msg_fn.py)
-### [파이썬 디스코드봇 만들기]
+### [파이썬 디스코드봇 만들기](https://velog.io/@chuu1019/AI-ChatGpt4-Discord-Bot-%EB%A7%8C%EB%93%A4%EA%B8%B0-feat.-python)
+
 ### [openCV 자동차 인식](https://github.com/jitendrasb24/Car-Detection-OpenCV)
 ### [openCV 번호판 인식](https://seethefuture.tistory.com/134)
 
