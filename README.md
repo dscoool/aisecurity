@@ -6,7 +6,7 @@
 ### [slide](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
 ## [2. 📗 Django로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍](https://github.com/dscoool/django)
 ## [3. 📗 11가지 핵심 예제로 파이썬 머신러닝 정복하기](https://github.com/dscoool/machinelearning11)
-
+## [4. 파이썬 OpenCV](http://github.com/dscoool/opencv)
 
 ## 👨‍🏫 강의 목표
 ### 프론트엔드 / 파이썬 / 모바일어플리케이션 등의 필요한 기술과 지식을 학습하여 
