@@ -78,8 +78,9 @@
 [(게임자료실)](https://drive.google.com/drive/folders/1PE-zxK5eHEVK6TiBw32Me2xW_dHZhRwu?usp=sharing)
 [(매뉴얼)](https://wikidocs.net/64675)
 ## [5.B.][파이썬으로 앱 만들기 | kivy](https://wikidocs.net/85867) 
+## 전문 III. [[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/aisecurity/blob/main/de-identification.md) 	
 
-## 프로젝트 III. 👨🏻‍💻[[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/opencv) 	
+## 프로젝트 III.
         개인정보 핵심
 	개인정보 비식별 개요
 	개인정보 비식별 핵심
