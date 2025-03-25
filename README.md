@@ -44,13 +44,11 @@
 ###	2.2. 데이터 전처리
 ###	2.3. 데이터 시각화
 ### 	2.4. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
-### [2.4.1. Streamlit 챗봇 외부접속 가능하도록 배포하기 - 네이버클라우드 활용](https://chucoding.tistory.com/146)
 ### [2.4.2. CLOVA Chatbot 카카오톡 연동하기](https://chucoding.tistory.com/125)
 ### 2.5. [Python django + 네이버 클라우드로 테스트 서버 생성 및 배포하기.](https://velog.io/@yjl8628/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BCNCP-Pythondjango-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
 ### [2.5.1 Flask를 이용해 챗봇이 있는 웹페이지 만들어보기](https://gaebalsaebal-developer.tistory.com/31#google_vignette)
 
-### [2.6. 도메인 할당하기]
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기](https://brain-nim.tistory.com/3)
 ### [2.A. 파이썬 kivy로 안드로이드 어플 만들기(2)](https://gaebalsaebal-developer.tistory.com/28)
 ### [2.A. 모바일 어플리케이션 스택 안내]
@@ -61,11 +59,7 @@
 	기초 통계학
 	특징 공학
 	이상 탐지
-## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://gaebalsaebal-developer.tistory.com/28)
-## [4.A. 파이썬으로 chatGPT와 대화하는 모바일 앱 만들어보기](https://github.com/woensug-choi/ChatGee)
 ### [매뉴얼](https://woensug-choi.github.io/ChatGee/Introduction.html#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9A%A9-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
-## [4.B. 파이썬으로 카카오톡 메시지 보내기](https://devtalk.kakao.com/t/rest-api-python-flask/134383)
-## [4.C. 카카오톡 챗봇 만들기 | ChatGee](https://chatgee.notion.site/d48efe6c05934aa2bd2659c5de6179f6#2737cb8ecbe141feb2d50b85da6137db)
 ## V. 👩🏻‍💻[인공지능 알고리즘 설계 지도 학습][기본5] 
 	비지도 학습
 	뉴럴 네트워크 핵심
