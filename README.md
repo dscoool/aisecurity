@@ -43,15 +43,7 @@
 
 ###	2.2. 데이터 전처리
 ###	2.3. 데이터 시각화
-### 	2.4. [Naver 클로바 챗봇 만들기](https://velog.io/@westreed/%EB%84%A4%EC%9D%B4%EB%B2%84-CLOVA-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0) [📺](https://www.youtube.com/watch?v=9xauO9t8Fu8&feature=youtu.be)
-### [2.4.2. CLOVA Chatbot 카카오톡 연동하기](https://chucoding.tistory.com/125)
 ### 2.5. [Python django + 네이버 클라우드로 테스트 서버 생성 및 배포하기.](https://velog.io/@yjl8628/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BCNCP-Pythondjango-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
-
-### [2.5.1 Flask를 이용해 챗봇이 있는 웹페이지 만들어보기](https://gaebalsaebal-developer.tistory.com/31#google_vignette)
-
-### [2.A. 파이썬 kivy로 안드로이드 어플 만들기](https://brain-nim.tistory.com/3)
-### [2.A. 파이썬 kivy로 안드로이드 어플 만들기(2)](https://gaebalsaebal-developer.tistory.com/28)
-### [2.A. 모바일 어플리케이션 스택 안내]
 
 ## IV. 👨🏻‍💻[인공지능 알고리즘 설계를 위한 연산 및 통계][기본4]
 	머신러닝 핵심
@@ -67,10 +59,12 @@
 	텐서플로 기초
 	텐서플로 실습
 	강화 학습
+
 ## [5.A.][게임 만들기 | pygame](https://github.com/dscoool/pygame)
 
 [(게임자료실)](https://drive.google.com/drive/folders/1PE-zxK5eHEVK6TiBw32Me2xW_dHZhRwu?usp=sharing)
 [(매뉴얼)](https://wikidocs.net/64675)
+
 ## [5.B.][파이썬으로 앱 만들기 | kivy](https://wikidocs.net/85867) 
 
 
@@ -114,6 +108,3 @@
 	개인식별정보 자동 분류 시스템 개발
 	개인정보 비식별 자동화 시스템 개발
 
-## ⏳[과정평가]
-#### [금요일 Quiz]
-## 📝[프로젝트평가]
