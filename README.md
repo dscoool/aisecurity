@@ -67,6 +67,10 @@
 
 ## [5.B.][파이썬으로 앱 만들기 | kivy](https://wikidocs.net/85867) 
 
+## [5.C][CLOVAX + DISCORD 챗봇 만들기][연애상담봇 만들기]
+
+## [5.D][KAKAOTALK 챗봇 만들기|매뉴얼](https://kakaobusiness.gitbook.io/main/tool/chatbot/tutorial/make_chatbot/tutorial_1)
+## [5.D][KAKAOTALK 챗봇 만들기](https://business.kakao.com/info/chatbot/)
 
 ## IV. [[개인정보 비식별 자동화 기술개발][전문3]](https://github.com/dscoool/aisecurity/blob/main/de-identification.md) 	
 
