@@ -7,8 +7,8 @@
 ## [2. 📗 Django로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍](https://github.com/dscoool/django)
 ## [3. 📗 11가지 핵심 예제로 파이썬 머신러닝 정복하기](https://github.com/dscoool/machinelearning11)
 ## [4. 파이썬 OpenCV](http://github.com/dscoool/opencv)
-## [5. Django Tutorial | 첫 번째 장고 앱 작성하기](https://docs.djangoproject.com/ko/5.1/intro/tutorial01/)
-## [6. 개인정보 비식별화 프로덕트 만들기](https://github.com/dscoool/aisecurity/blob/main/de-identification.md)
+## [5. Django Examples](https://www.geeksforgeeks.org/django-projects/#django-projects-for-beginner)
+## [7. 개인정보 비식별화 프로덕트 만들기](https://github.com/dscoool/aisecurity/blob/main/de-identification.md)
 
 ## 👨‍🏫 강의 목표
 ### 프론트엔드 / 파이썬 / 모바일어플리케이션 등의 필요한 기술과 지식을 학습하여 
