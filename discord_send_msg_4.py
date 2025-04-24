@@ -16,5 +16,5 @@ json_data = {
 	}]
 }
 
-requests.post("https://discordapp.com/api/webhooks/1354231049768402955/LVFBX8RltSgawfA9_n8quVqHfDZyGt-OhuvTt_5n-KT8WSc0OXqPncHfpJf7E7RQ-s2I", 
+requests.post("https://discordapp.com/api/webhooks/**", 
               headers=headers, json=json_data)
