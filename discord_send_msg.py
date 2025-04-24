@@ -1,5 +1,4 @@
 # webhook: 
-# https://discordapp.com/api/webhooks/1344086029489143910/RBic3z8_q7itigPhxaYrJQQlOBjy04d7dciJMUug3kUCt8LIHBftfQ-_FeBvpOwLYVWV
 import requests
 
 headers = {
