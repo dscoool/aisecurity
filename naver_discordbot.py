@@ -5,7 +5,7 @@ import json
 import time
 
 # 디스코드 설정
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1354231049768402955/LVFBX8RltSgawfA9_n8quVqHfDZyGt-OhuvTt_5n-KT8WSc0OXqPncHfpJf7E7RQ-s2I"
+DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/**"
 DISCORD_BOT_NAME = "[⭐️]이스트소프트_고양이챗봇"
 DISCORD_BOT_URL = "https://github.com/dscoool/aisecurity/blob/main/discord_send_msg.py"
 DISCORD_BOT_THUMBNAIL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1kkiO_HhVWIXL-RBDOLDzNVjHvcDNxl11swe-mvGzbpHQdYYDzye3_Y&usqp=CAE&s"
