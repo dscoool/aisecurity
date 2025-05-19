@@ -1,5 +1,11 @@
 # [이스트소프트] 정보보안 인공지능 3기⭐️
 ## 2025.02 ~ 2025.06 (비대면 | 프로젝트 대면)
+
+
+## 📚 프로젝트 III.
+
+### ![Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ47WJSl7BiGM7PpkogqTc3E0zJYuEUgl1EOI6J2NzdiKnMJJuG6QuZiwA2Cx4WmBjfOdALAWQE0b9Y/pub?start=true&loop=false&delayms=60000)
+
 ## 📚 교재
 
 ## [1. 📕 만들면서 배우는 파이썬과 40개의 작품들](https://github.com/dscoool/python40/)
